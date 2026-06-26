@@ -1,1 +1,1 @@
-minjust-frontend
+minjust-frontend. react + vite
